@@ -1,0 +1,15 @@
+C:\CShurp\HomeWork9\task64\bin\Debug\net6.0\task64.exe
+C:\CShurp\HomeWork9\task64\bin\Debug\net6.0\task64.deps.json
+C:\CShurp\HomeWork9\task64\bin\Debug\net6.0\task64.runtimeconfig.json
+C:\CShurp\HomeWork9\task64\bin\Debug\net6.0\task64.dll
+C:\CShurp\HomeWork9\task64\bin\Debug\net6.0\task64.pdb
+C:\CShurp\HomeWork9\task64\obj\Debug\net6.0\task64.csproj.AssemblyReference.cache
+C:\CShurp\HomeWork9\task64\obj\Debug\net6.0\task64.GeneratedMSBuildEditorConfig.editorconfig
+C:\CShurp\HomeWork9\task64\obj\Debug\net6.0\task64.AssemblyInfoInputs.cache
+C:\CShurp\HomeWork9\task64\obj\Debug\net6.0\task64.AssemblyInfo.cs
+C:\CShurp\HomeWork9\task64\obj\Debug\net6.0\task64.csproj.CoreCompileInputs.cache
+C:\CShurp\HomeWork9\task64\obj\Debug\net6.0\task64.dll
+C:\CShurp\HomeWork9\task64\obj\Debug\net6.0\refint\task64.dll
+C:\CShurp\HomeWork9\task64\obj\Debug\net6.0\task64.pdb
+C:\CShurp\HomeWork9\task64\obj\Debug\net6.0\task64.genruntimeconfig.cache
+C:\CShurp\HomeWork9\task64\obj\Debug\net6.0\ref\task64.dll
